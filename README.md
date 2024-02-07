@@ -1,4 +1,6 @@
 #  Digit Classification with Deep Learning
+![1_SGPGG7oeSvVlV5sOSQ2iZw](https://github.com/Rutuja-Salunke/Digit-Classification-Deep-Learning/assets/102023809/31f5d235-fd05-4ac0-b76d-8ccfe69e55bc)
+
 
 - **Project Overview:**
   - Digit classification using deep learning with TensorFlow and Keras.
